@@ -226,7 +226,7 @@ font-size: var( --text-sm);
   align-items: center;
   gap: var( --spacing-2x1);
   margin: var( --spacing-2x1) auto;
-  margin: 0 2rem;
+
   border-radius: var( --radius-1g);
   background-color: var( --gray-200);
 }
@@ -932,13 +932,14 @@ margin: var( --spacing-1g) auto 0;
 position: relative;
 margin: 0;
 padding: var( --spacing-sm) 0 2rem 0;
-overflow: visible;
+overflow: hidden;
 }
 
-.project-card {
+article .project-card {
 width: 100%;
 height: 20rem;
 max-width: 20rem;
+
 }
 
 .project-image {
