@@ -402,7 +402,7 @@ color: var( --purple-800);
 
 /* Containers do Swiper */
 
-.swiper-wrapper{
+.swiper-wrapper {
   align-items: stretch;
 }
 
@@ -411,37 +411,34 @@ color: var( --purple-800);
   height: auto;
 }
 
-/* Swiper Botoes */
-
 .swiper-button-next,
 .swiper-button-prev {
-   width: 3rem;
-  height: 3rem; 
+  width: 3rem;
+  height: 3rem;
 }
 
 .swiper-button-next:after,
 .swiper-button-prev:after {
-  font-size: var( --text-1g);
-  color: var( --purple-500);
+  font-size: var(--text-lg);
+  color: var(--purple-500);
 }
+
 .swiper-button-next:hover:after,
 .swiper-button-prev:hover:after {
-  color: var( --purple-800);
+  color: var(--purple-800);
 }
-
-
-/* Swiper paginação */
 
 .swiper-pagination-bullet {
-width: 0.75rem;
-height: 0.75rem;
-background-color: var( --gray-200);
-opacity: 1;
+  width: 0.75rem;
+  height: 0.75rem;
+  background-color: var(--gray-200);
+  opacity: 1;
 }
+
 .swiper-pagination-bullet-active {
-width: var( --spacing-lg);
-border-radius: var( --radius-sm);
-background-color: var( --purple-500);
+  width: var(--spacing-lg);
+  border-radius: var(--radius-sm);
+  background-color: var(--purple-500);
 }
 
 /* Contato e redes sociais */
@@ -924,16 +921,17 @@ font-size: var( --text-sm);
 }
 
 /* Projects */
-.projects-container {
-margin: var( --spacing-1g) auto 0;
-}
 
-.projects-swiper {
+/* .projects-container {
+margin: var( --spacing-1g) auto 0;
+} */
+
+/* .projects-swiper {
 position: relative;
 margin: 0;
 padding: var( --spacing-sm) 0 2rem 0;
 overflow: hidden;
-}
+} */
 
 article .project-card {
 width: 100%;
