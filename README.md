@@ -14,7 +14,7 @@ O **Projeto Portfólio Pessoal** é um **site profissional moderno**, desenvolvi
 
 O projeto consome dados dinâmicos da **API do GitHub**, permitindo que informações como perfil e repositórios sejam carregadas automaticamente, mantendo o conteúdo sempre atualizado.
 
-------
+---
 
 ## Funcionalidades
 
@@ -32,7 +32,7 @@ O projeto consome dados dinâmicos da **API do GitHub**, permitindo que informa�
 - Navegação fluida com menu fixo e rolagem suave
 - Interface intuitiva e organizada, focada na experiência do usuário
 
-------
+---
 
 ## Estrutura do Projeto
 
@@ -53,7 +53,7 @@ portfolio/
 └── README.md
 ```
 
-------
+---
 
 ## Tecnologias Utilizadas
 
@@ -64,7 +64,7 @@ portfolio/
 - **Fom Submit:** Serviço de envio de e-mails via formulário HTML
 - **GitHub API**: Fonte dinâmica de dados do perfil e repositórios
 
-------
+---
 
 ## Executando Localmente
 
@@ -99,15 +99,15 @@ Para executar o projeto em ambiente local, siga os passos abaixo.
 
 O site será aberto no navegador e todas as alterações poderão ser visualizadas em tempo real.
 
-------
+---
 
 ## Deploy
 
 Este site está disponível publicamente através do **GitHub Pages**. Você pode acessar a versão online pelo link abaixo:
 
-🔗 https://seu-usuario.github.io/seu-repositorio
+🔗 https://tacila-souza.github.io/portfolio-html/
 
-------
+---
 
 ## Contribuições
 
